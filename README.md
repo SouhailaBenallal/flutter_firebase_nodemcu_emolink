@@ -2,17 +2,6 @@
 
 **Version:** 1.0.0+1
 
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Setup and Installation](#setup-and-installation)
-3. [Usage](#usage)
-4. [Project Structure](#project-structure)
-5. [Code Explanation](#code-explanation)
-6. [Dependencies](#dependencies)
-7. [Contributing](#contributing)
-8. [License](#license)
-
----
 
 ## Project Overview
 
